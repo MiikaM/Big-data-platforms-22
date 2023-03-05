@@ -1,3 +1,5 @@
+# *NOTE!!! This repository is free to be used for learning purposes. PLAGIARISM IS NOT ALLOWED. The use of someone elses code as your own is forbidden. If you do not know what plagiarism is refer to this website by the [University of Oxford](https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism)*
+
 # Getting started
 
 This repository is made for Big data platforms 2022 course from Helsinki´s open university. All course material is owned by Helsinki university. All code development is made by owner of this repository **Miika Mikkonen**.
